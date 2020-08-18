@@ -13,8 +13,8 @@
 /build
 
 # misc
-.idea
-*/.idea
+.idea/**
+**/.idea
 
 .DS_Store
 .env.local
